@@ -16,3 +16,11 @@
 
 - [UML图中类之间的关系:依赖,泛化,关联,聚合,组合,实现](https://www.cnblogs.com/firstcsharp/p/5327659.html)
 
+
+## 读书雷达
+
+- [整洁架构中文版](https://github.com/wonderwater/clean_architecture_zh/blob/master/SUMMARY.md) [英文版](https://usermanual.wiki/Pdf/Clean20Architecture20A20Craftsmans20Guide20to20Software20Structure20and20Design.1054649711.pdf)
+
+- [实现领域驱动设计](https://pan.baidu.com/s/1LFjuQdLpjVIJwMcF2iWS1g)
+
+提取码: t7c9
