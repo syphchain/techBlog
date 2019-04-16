@@ -1,5 +1,11 @@
 # 团队技术追踪
 
+## 知识管理
+
+- [程序员的知识管理](https://blog.xiaohansong.com/kownledge-Management.html)
+- [别学东学西了，先建立自己的知识体系吧！](https://mp.weixin.qq.com/s?__biz=MjM5MjE5ODA4MA==&mid=2651618017&idx=1&sn=6d44b61a531f1773433f1b7a2ae97015&scene=2&srcid=0626vnAL4FLJp2dXmH4TyChx&from=timeline&isappinstalled=0#wechat_redirect)
+- [没有了老师，你该如何学习？](http://insights.thoughtworkers.org/how-to-study-without-teacher/)
+
 ## 系统设计篇
 
 主要关注系统设计、设计模式、接口设计、技术架构与业务架构、模块化等
