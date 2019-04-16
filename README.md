@@ -17,6 +17,10 @@
 - [UML图中类之间的关系:依赖,泛化,关联,聚合,组合,实现](https://www.cnblogs.com/firstcsharp/p/5327659.html)
 
 
+## 技术雷达
+
+- [Thoughtworks 技术雷达](https://www.thoughtworks.com/cn/radar) 19期+
+
 ## 读书雷达
 
 - [整洁架构中文版](https://github.com/wonderwater/clean_architecture_zh/blob/master/SUMMARY.md) [英文版](https://usermanual.wiki/Pdf/Clean20Architecture20A20Craftsmans20Guide20to20Software20Structure20and20Design.1054649711.pdf)
