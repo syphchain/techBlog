@@ -27,6 +27,9 @@
 
 - [实现领域驱动设计](https://pan.baidu.com/s/1LFjuQdLpjVIJwMcF2iWS1g)  提取码: t7c9
 
+- [Thoughtworks 读书雷达](https://mp.weixin.qq.com/s/72ztCkFDFGDh4zfl0UfeGw)
+- [读书雷达 l 业务分析师（BA）篇](https://mp.weixin.qq.com/s/FxgQgjQh_Eprz5kI_DYvbg)
+
 ## 成长体系
 
 - [Java 技术体系](images/java-arch.jpeg)
