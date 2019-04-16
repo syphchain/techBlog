@@ -29,6 +29,8 @@
 
 - [Thoughtworks 读书雷达](https://mp.weixin.qq.com/s/72ztCkFDFGDh4zfl0UfeGw)
 - [读书雷达 l 业务分析师（BA）篇](https://mp.weixin.qq.com/s/FxgQgjQh_Eprz5kI_DYvbg)
+- [读书雷达 | 公益+互联网篇](https://mp.weixin.qq.com/s/wsD8B90TSE28P_3i9O-_eA)
+- [夜读推荐书单](https://mp.weixin.qq.com/s/YryrFuCE7OYAJ3NYWsa-dA)
 
 ## 成长体系
 
