@@ -12,7 +12,11 @@
 
 ### Restful API Design
 
-- [架构风格与基于网络应用软件的架构设计](https://static001.infoq.cn/resource/ebook/d8/d4/d81ffea1966b4926e64372829ec0e7d4.pdf)  Fielding 博士的论文，也是 Restful 架构设计风格的鼻祖
+#### Restful API 的设计基础
+
+- [架构风格与基于网络应用软件的架构设计](https://static001.infoq.cn/resource/ebook/d8/d4/d81ffea1966b4926e64372829ec0e7d4.pdf)  Fielding 博士的论文，也是 Restful 架构设计风格的鼻祖，这篇论文属于必看的，不然真的不敢说你懂 Restful
+
+#### API 设计的一些最佳实践
 
 - [REST API Error Codes 101](https://blog.restcase.com/rest-api-error-codes-101/)   介绍 REST API 的错误码设计以及统一错误处理(ErrorHandle), 有非常好的借鉴意义
 
