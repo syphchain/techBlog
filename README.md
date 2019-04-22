@@ -31,6 +31,10 @@
 
 - [实践 DDD 的一些问题](https://time.geekbang.org/column/article/c6b2c4997bcd6221f751f8ddd90dc7b1/share?code=F-KYx7RR0i%2FOgFqYXVIBZXT%2FtfCGO7o1LaZa450aHxQ%3D&oss_token=f338335c03a6a87e)
 
+### 模块化
+
+- [Modularizing a Spring Boot Application](https://reflectoring.io/spring-boot-modules/)  code is [here](https://github.com/thombergs/code-examples/tree/master/spring-boot/modular)
+
 
 ## 技术篇
 
