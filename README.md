@@ -27,6 +27,21 @@
 - [UML图中类之间的关系:依赖,泛化,关联,聚合,组合,实现](https://www.cnblogs.com/firstcsharp/p/5327659.html)
 
 
+### DDD
+
+- [实践 DDD 的一些问题](https://time.geekbang.org/column/article/c6b2c4997bcd6221f751f8ddd90dc7b1/share?code=F-KYx7RR0i%2FOgFqYXVIBZXT%2FtfCGO7o1LaZa450aHxQ%3D&oss_token=f338335c03a6a87e)
+
+
+## 技术篇
+
+### Redis 
+
+- [Redis 开发规范](https://mp.weixin.qq.com/s/lkQsOsqY3m4V_SCGksI_BQ)
+
+### Java
+
+- [恕我直言，在座的各位根本不会写 Java！包括我~](https://mp.weixin.qq.com/s/seVOch3w8GdDKyu0FDOw3g)
+
 ## 技术雷达
 
 - [Thoughtworks 技术雷达](https://www.thoughtworks.com/cn/radar) 19期+
